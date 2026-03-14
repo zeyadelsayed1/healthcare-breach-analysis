@@ -12,6 +12,14 @@ The goal is to turn raw breach records into **actionable security intelligence**
 
 ---
 
+## 🏗️ Project Architecture
+
+The following diagram illustrates the full data pipeline used to transform raw healthcare breach records into actionable cybersecurity insights.
+
+![Project Architecture](Imagess/project_architecture.png)
+
+---
+
 ## 📊 Dashboard Pages
 
 ### 1. Executive Risk Overview
